@@ -2,6 +2,7 @@
 
 body {
   background: white;
+  overflow: hidden;
 }
 
 .wrapper {
