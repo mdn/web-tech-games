@@ -10,7 +10,6 @@ body {
   height: 805px;
   margin: 0 auto;
   position: relative;
-  border-bottom: 30px solid black;
 }
 
 section {
@@ -24,7 +23,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.3rem;
   padding: 0 2px;
   font-weight: normal;
   display: inline-block;
@@ -102,8 +101,4 @@ li {
   top: 660px;
   left: 78.7%;
   width: 150px;
-}
-
-.compiling h2 {
-  width: 100px;
 }
