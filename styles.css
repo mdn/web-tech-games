@@ -10,6 +10,7 @@ body {
   height: 806px;
   margin: 0 auto;
   position: relative;
+  border-bottom: 30px solid black;
 }
 
 section {
