@@ -1,0 +1,102 @@
+/* General styling */
+
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+  position: relative;
+}
+
+section {
+  text-align: center;
+  position: absolute;
+}
+
+h1 {
+  position: absolute;
+  left: -9000px;
+}
+
+h2 {
+  font-size: 1.6rem;
+  padding: 0 2px;
+  font-weight: normal;
+  display: inline-block;
+}
+
+li {
+  font-size: 0.9rem;
+}
+
+.dark h2 {
+  color: #00FCFC;
+  background-color: black;
+}
+
+.light h2 {
+  color: black;
+  background-color: white;
+}
+
+.light li {
+  color: white;
+}
+
+.light li a {
+  color: white;
+}
+
+/* positioning of the different text boxes */
+
+.hosting {
+  top: 85px;
+  left: 41%;
+}
+
+.network {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 230px;
+  top: 250px;
+  left: 35%;
+}
+
+.display {
+  top: 435px;
+  left: 17%;
+}
+
+.audio {
+  top: 500px;
+  left: 43.6%;
+}
+
+.controls {
+  top: 435px;
+  left: 70%;
+}
+
+.storage {
+  top: 660px;
+  left: 4.5%;
+}
+
+.performance {
+  top: 660px;
+  left: 26%;
+}
+
+.devtools {
+  top: 660px;
+  left: 55%;
+}
+
+.compiling {
+  top: 660px;
+  left: 78.7%;
+  width: 150px;
+}
+
+.compiling h2 {
+  width: 100px;
+}
