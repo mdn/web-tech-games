@@ -54,7 +54,7 @@ li {
 /* positioning of the different text boxes */
 
 .hosting {
-  top: 85px;
+  top: 65px;
   left: 41%;
 }
 
@@ -63,7 +63,7 @@ li {
   align-items: center;
   justify-content: space-between;
   width: 230px;
-  top: 250px;
+  top: 235px;
   left: 35%;
 }
 
