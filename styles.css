@@ -23,14 +23,15 @@ h1 {
 }
 
 h2 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   padding: 0 2px;
+  margin-bottom: 10px;
   font-weight: normal;
   display: inline-block;
 }
 
 li {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 .dark h2 {
@@ -54,8 +55,8 @@ li {
 /* positioning of the different text boxes */
 
 .hosting {
-  top: 65px;
-  left: 41%;
+  top: 35px;
+  left: 40%;
 }
 
 .network {
@@ -68,37 +69,37 @@ li {
 }
 
 .display {
-  top: 435px;
+  top: 410px;
   left: 17%;
 }
 
 .audio {
-  top: 500px;
+  top: 475px;
   left: 43.6%;
 }
 
 .controls {
-  top: 435px;
+  top: 410px;
   left: 70%;
 }
 
 .storage {
-  top: 660px;
+  top: 635px;
   left: 4.5%;
 }
 
 .performance {
-  top: 660px;
-  left: 26%;
+  top: 635px;
+  left: 25.5%;
 }
 
 .devtools {
-  top: 660px;
+  top: 635px;
   left: 55%;
 }
 
 .compiling {
-  top: 660px;
+  top: 635px;
   left: 78.7%;
   width: 150px;
 }
